@@ -1,0 +1,22 @@
+.projects {
+    padding: 2rem;
+    text-align: center;
+    background-color: #ffffff;
+  }
+  
+  .projects h2 {
+    color: #444;
+  }
+  
+  .projects p {
+    color: #666;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  @media (max-width: 768px) {
+    .projects {
+      padding: 1rem;
+    }
+  }
+  

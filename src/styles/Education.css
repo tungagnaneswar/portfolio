@@ -1,0 +1,27 @@
+  .education {
+    padding: 2rem;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .education h2 {
+    color: #444;
+  }
+  
+  .education p {
+    color: #000000;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  p spam {
+    color:rgb(255, 103, 2);
+    font-size: larger;
+  }
+  
+  @media (max-width: 768px) {
+    .education {
+      padding: 1rem;
+    }
+  }
+  
